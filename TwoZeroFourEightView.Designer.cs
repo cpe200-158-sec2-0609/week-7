@@ -68,7 +68,7 @@
             this.lbl01.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lbl01.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl01.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.lbl01.Location = new System.Drawing.Point(76, 9);
+            this.lbl01.Location = new System.Drawing.Point(82, 11);
             this.lbl01.Name = "lbl01";
             this.lbl01.Size = new System.Drawing.Size(51, 51);
             this.lbl01.TabIndex = 1;
@@ -79,7 +79,7 @@
             this.lbl02.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lbl02.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl02.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.lbl02.Location = new System.Drawing.Point(140, 11);
+            this.lbl02.Location = new System.Drawing.Point(142, 11);
             this.lbl02.Name = "lbl02";
             this.lbl02.Size = new System.Drawing.Size(51, 51);
             this.lbl02.TabIndex = 2;
@@ -123,7 +123,7 @@
             this.lbl11.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lbl11.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl11.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.lbl11.Location = new System.Drawing.Point(76, 74);
+            this.lbl11.Location = new System.Drawing.Point(82, 74);
             this.lbl11.Name = "lbl11";
             this.lbl11.Size = new System.Drawing.Size(51, 51);
             this.lbl11.TabIndex = 5;

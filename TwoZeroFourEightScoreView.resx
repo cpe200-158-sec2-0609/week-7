@@ -117,17 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Emily-The-Strange-emily-the-strange-10015691-1024-768" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Emily-The-Strange-emily-the-strange-10015691-1024-768.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="emily_is_strange_by_kristin_a" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\emily_is_strange_by_kristin_a.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="toy_story_background_by_lepercqj-d5fq3ql" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\toy_story_background_by_lepercqj-d5fq3ql.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="top-selected-3d-wallpapers" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\top-selected-3d-wallpapers.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
 </root>
