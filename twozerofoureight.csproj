@@ -93,15 +93,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Emily-The-Strange-emily-the-strange-10015691-1024-768.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\emily_is_strange_by_kristin_a.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\toy_story_background_by_lepercqj-d5fq3ql.jpg" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\top-selected-3d-wallpapers.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
